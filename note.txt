@@ -1,3 +1,4 @@
-• Git giúp quản lý phiên bản mã nguồn rất hiệu quả.
+• Học Git giúp hiểu rõ quy trình phát triển phần mềm chuyên nghiệp.
+• Các lệnh Git đầu tiên hơi khó, nhưng rất hữu ích khi quen rồi.• Git giúp quản lý phiên bản mã nguồn rất hiệu quả.
 • Dễ dàng làm việc nhóm mà không sợ ghi đè code của nhau.
 • Có thể quay lại lịch sử thay đổi bất kỳ lúc nào.

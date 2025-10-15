@@ -1,0 +1,3 @@
+• Git giúp quản lý phiên bản mã nguồn rất hiệu quả.
+• Dễ dàng làm việc nhóm mà không sợ ghi đè code của nhau.
+• Có thể quay lại lịch sử thay đổi bất kỳ lúc nào.

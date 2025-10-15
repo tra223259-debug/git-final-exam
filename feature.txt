@@ -1,0 +1,6 @@
+Tính năng mới: Quản lý kế hoạch học tập tự động
+1. Cho phép người dùng nhập lịch học từng ngày.
+2. Tự động tạo thông báo nhắc học tập qua email.
+3. Lưu tiến độ hoàn thành bài học trong tuần.
+4. Hiển thị biểu đồ năng suất học tập.
+5. Gợi ý cải thiện lịch trình dựa trên dữ liệu người dùng.
